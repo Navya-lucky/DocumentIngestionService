@@ -13,3 +13,4 @@ class Document(Base):
     upload_date = Column(DateTime, default=datetime.now)
     extracted_text = Column(String)
     status = Column(String, default="uploaded")
+    file_path = Column(String)
