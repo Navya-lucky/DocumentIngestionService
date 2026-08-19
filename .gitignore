@@ -6,3 +6,5 @@ __pycache__/
 storage/
 .idea/
 .vscode/
+.vercel
+.env*
