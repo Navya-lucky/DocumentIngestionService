@@ -8,3 +8,4 @@ minio
 pypdf
 python-docx
 openpyxl
+boto3
